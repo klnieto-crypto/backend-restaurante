@@ -1,0 +1,17 @@
+{
+    "name": "restaurante/ms-reservas",
+    "description": "Microservicio reservas",
+    "require": {
+        "slim/slim": "4.*",
+        "nyholm/psr7": "1.8",
+        "php-di/php-di": "7.0",
+        "illuminate/database": "10.0",
+        "vlucas/phpdotenv": "5.0"
+    },
+    "authors": [
+        {
+            "name": "LuzIA0612",
+            "email": "klucia1206@gmail.com"
+        }
+    ]
+}
